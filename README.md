@@ -89,3 +89,5 @@ For this to work, you need to be using a oidc.json inside the application. As we
 ```
 
 With the above, the authentication request from the OIDC elytron client subsystem will be intercepted by the security domain. Once this happens, the capabilities of a security domain will be available.
+
+Here is a sample application configured: https://github.com/gabrielpadilh4/jboss-oidc-quickstart
